@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/amit-kumar-35545b246/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:amit909563@gmail.com" target="_blank">
+  <a href="mailto:devs98528@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=mail.ru" alt="Email" />
   </a>
 </p>
